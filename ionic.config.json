@@ -1,0 +1,7 @@
+{
+  "name": "team-portal-repo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
